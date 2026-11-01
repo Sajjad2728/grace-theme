@@ -1,0 +1,632 @@
+[
+  {
+    "file": "font_01.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 19700,
+    "sha256": "f18853f63a870ebef013e30e789d8d544f102e4acd94988e57c223d9c796ddf4",
+    "occurrences": 2,
+    "context": "font: Fraunces"
+  },
+  {
+    "file": "font_02.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 59388,
+    "sha256": "a2930b27d13a228bd9ab6a49269b5f800237892ad560cb9dd7fab01b1620f88e",
+    "occurrences": 2,
+    "context": "font: Fraunces"
+  },
+  {
+    "file": "font_03.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 67304,
+    "sha256": "7234ed860a9cc83045413c4faee63c960a8f2d1917adcf728119307d56e0d783",
+    "occurrences": 2,
+    "context": "font: Fraunces"
+  },
+  {
+    "file": "font_04.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 30448,
+    "sha256": "f77e750b53ece9138eb12b6d35e97d832d332cd109600fd91452d9f9988f35c5",
+    "occurrences": 1,
+    "context": "font: Boska"
+  },
+  {
+    "file": "font_05.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 25960,
+    "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_06.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 18748,
+    "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_07.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 11232,
+    "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_08.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 18996,
+    "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_09.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 85068,
+    "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_10.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 48256,
+    "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_11.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 10252,
+    "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+    "occurrences": 2,
+    "context": "font: Inter"
+  },
+  {
+    "file": "font_12.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 24056,
+    "sha256": "88d3e420adee3fa99ae50c15b123e3c9a07ce0ec0c03a01bd6bdd5232822da28",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "font_13.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 25012,
+    "sha256": "c753d7153cac2cfeb877264d18f11197ca672d3e04ba1472154a54777a4e354d",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "font_14.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 23872,
+    "sha256": "3e38d8c01fe97529fbf0a086bf958d724b723ca7fc8be77b4ba5745f6259b6ca",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "font_15.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 24844,
+    "sha256": "55e09735e30d8492afac5d59ac433c6b367bb7dd00c46e157cfe95c9fb29e833",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "font_16.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 24676,
+    "sha256": "7af06155afaee6d8984649172f51f9ceb32de10a04a844d973a9ea45e9f6132e",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "font_17.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 27604,
+    "sha256": "b0dd7b8da7195c810bddd94508063bec0a429d816bbe7a1456d20d7c946a90db",
+    "occurrences": 1,
+    "context": "font: Boska"
+  },
+  {
+    "file": "font_18.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 29668,
+    "sha256": "260c5a120a2cb42b38eb8d3860238703eaede287d757df082a771df1d43bb1d9",
+    "occurrences": 1,
+    "context": "font: Boska"
+  },
+  {
+    "file": "font_19.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 33468,
+    "sha256": "f64c796acd3f5c99b07bf1d054e56997c29910e1adc16a98a2b617c4693d8792",
+    "occurrences": 1,
+    "context": "font: Boska"
+  },
+  {
+    "file": "font_20.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 26112,
+    "sha256": "f1602cdc43705c82f64cbaa7ea448a5533f2292f60355c71c84ffb0c1d720b01",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "font_21.woff2",
+    "kind": "font",
+    "mime": "font/woff2",
+    "bytes": 24908,
+    "sha256": "455e296f048c1d5f813bc278bf06e48d5963e68cef81100c28da5bfc29bd0fad",
+    "occurrences": 1,
+    "context": "font: Fira Sans"
+  },
+  {
+    "file": "image_01.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 25476,
+    "sha256": "9487bddc1a4c04c4b0df68b4bc0947e053276bc2630db01e059c5889901aae29",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_02.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 21628,
+    "sha256": "fc88fee991bce7ade20eaeb8ed2f0d167222911d303cecacee4142f6b1b6fb09",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_03.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 1433859,
+    "sha256": "e5eece5e7f12773286045cc1fe1a792f02ebb53023817cd78c486ea71be8e9ef",
+    "occurrences": 1,
+    "context": "Medical Team"
+  },
+  {
+    "file": "image_04.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 23986,
+    "sha256": "55d554fb36d331f23975e7f969cfc49ebb605309074a8cb8d08b7c27f975b839",
+    "occurrences": 1,
+    "context": "img alt: Doctor Approved"
+  },
+  {
+    "file": "image_05.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 8758,
+    "sha256": "92606d475de2432a0f76db38699137c8bbb16e9dfdfaeb21b1e1f1ee235e8674",
+    "occurrences": 1,
+    "context": "Emergency Health Guide Image"
+  },
+  {
+    "file": "image_06.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 8954,
+    "sha256": "ac614fdaaa0ca2bf065c962b21ed6800414e12bbe3a40efc62f2143a198c9af5",
+    "occurrences": 1,
+    "context": "img alt: 60 Days Satisfaction Guaranteed Money Back"
+  },
+  {
+    "file": "image_07.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 22420,
+    "sha256": "2d39b5d598cd6db2375a62d3d7c81a36dc9bfc6a485d88388c57b331c3b005fa",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_08.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 18176,
+    "sha256": "90784246a8ccb890c14648b3f1adcdf449b9b4093e31685c1e27f7ea4a4f30b3",
+    "occurrences": 1,
+    "context": "img alt: Doctor Recommended"
+  },
+  {
+    "file": "image_09.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 23892,
+    "sha256": "dd24ef75e5beb20cb9978b8abe3244bd9dd9351906c9f03e822764ea3bff2b81",
+    "occurrences": 1,
+    "context": "Medicinal Seed Kit Image"
+  },
+  {
+    "file": "image_10.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 8922,
+    "sha256": "6215fc9b84708e3eff5b2b0b700b54d565e778f1a6fdf2a05c95a1b8e9b26570",
+    "occurrences": 1,
+    "context": "img alt: 60 Day Money Back Guaranteed"
+  },
+  {
+    "file": "image_11.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 15244,
+    "sha256": "8f0b1c03fec99f6c4c3daed5e97b06f6c0991a25563561357d49e01b307c3b4a",
+    "occurrences": 1,
+    "context": "img alt: FDA, GMP, laboratory tested and Made in USA standa"
+  },
+  {
+    "file": "image_12.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 211783,
+    "sha256": "5c5501d2acaf99b78a8f84ecd428e472ad7a90a9c75778a3a1fc1c365edab037",
+    "occurrences": 1,
+    "context": "img alt: Made in the USA Original Product"
+  },
+  {
+    "file": "image_13.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 120954,
+    "sha256": "6f9fc55bd78ff06ee74f84161d1278dfa39a82fc3bfa92c2606db4fd2129b0a8",
+    "occurrences": 1,
+    "context": "GlucoTonic Image"
+  },
+  {
+    "file": "image_14.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 9028,
+    "sha256": "6a6c801f1dff1481dd98c38bebd14eab46f085e55a2a645fef4e373afce95ff2",
+    "occurrences": 1,
+    "context": "img alt: 60-Day Money Back Guarantee"
+  },
+  {
+    "file": "image_15.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 16790,
+    "sha256": "06323a6fec516b42c5dc8ab1487850e04803d1f04a36e5eb0604f46ccd7bae6a",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_16.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 21490,
+    "sha256": "9ec64f731944b728d4f30f59cfbfdf209000ee963261a9a4696ba050ed245cf0",
+    "occurrences": 1,
+    "context": "Pineal Guardian Image"
+  },
+  {
+    "file": "image_17.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 8672,
+    "sha256": "2306b9b9cdee246e51fad32058d183810cf5a6887b141bcf588bac850f0212f5",
+    "occurrences": 1,
+    "context": "img alt: 365 Days 100 Percent Money Back Guarantee"
+  },
+  {
+    "file": "image_18.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 11148,
+    "sha256": "770878eec9a9edf54cd552b7c5bbf20221408bd194f1b152e33c7210ab9239bb",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_19.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 22712,
+    "sha256": "ffca972f23c143fa8251b9c7c0afd1d5a1d41e9d38a7651807ad87019ecf9435",
+    "occurrences": 1,
+    "context": "WeGoSlim Image"
+  },
+  {
+    "file": "image_20.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 9432,
+    "sha256": "15e28136ce058ebe736f1a9a31806514f7085b629e9ce40fa41cf229f7a60a9e",
+    "occurrences": 1,
+    "context": "img alt: 60 Days Money Back Guarantee"
+  },
+  {
+    "file": "image_21.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 16362,
+    "sha256": "4b8f5cfec6806916977813519296bd1429674519d7afa9bc62c99a03b3844df6",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_22.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 307736,
+    "sha256": "92255b9602aa0eab9832612de26ea435629aa3b6e91a40d8abfcf71c4c4c9670",
+    "occurrences": 1,
+    "context": "Medicinal Seed Kit Image"
+  },
+  {
+    "file": "image_23.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 7516,
+    "sha256": "9b6c316bea9ab04ce4be434e945d2f1d82dcf873540781cc592a96c64007a10a",
+    "occurrences": 1,
+    "context": "img alt: 60 Days Money Back Guarantee"
+  },
+  {
+    "file": "image_24.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 25294,
+    "sha256": "2d2a629727fbbd9a9a92dd6bcbb47ba138a15d15bc904e2fc2aa77cab2f85e3f",
+    "occurrences": 1,
+    "context": "img alt: GMP, FDA, Made in USA and GMO free standards badge"
+  },
+  {
+    "file": "image_25.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 237607,
+    "sha256": "504e287e0620faec4f502c2a86d3244bb42013c4c380c2abd7b363d747c12777",
+    "occurrences": 1,
+    "context": "Medicinal Seed Kit Image"
+  },
+  {
+    "file": "image_26.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 7732,
+    "sha256": "66254712becb3d8a3c848df5e7f85f99958bb79676f9011aa6864592e980ab13",
+    "occurrences": 1,
+    "context": "img alt: 60 Days Money Back Guarantee"
+  },
+  {
+    "file": "image_27.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 18998,
+    "sha256": "49440da274c379dfd0f1faa18d7d41a754c1290347b7be5d1eb12b952a92108d",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_28.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 184230,
+    "sha256": "b0dd5853a6515c322ddb3e0d7990c5d9dc8658ef1671770ae1238d547c04ef95",
+    "occurrences": 1,
+    "context": "Menovelle Image"
+  },
+  {
+    "file": "image_29.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 10436,
+    "sha256": "b0b7e11a8c838647d4a2e119a7662aed5c89ddc1d50c9d05ace72484a2d85789",
+    "occurrences": 1,
+    "context": "img alt: 100% Money Back Guaranteed"
+  },
+  {
+    "file": "image_30.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 19558,
+    "sha256": "f68d3a5bcb44cb8d77b4e67519d94b1ef2eaf60782da11a1784de18da5af0b06",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_31.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 311007,
+    "sha256": "59fc40233430e21a4c0e84eea92c6c377b6b09cf1acab91449844f3d976c838b",
+    "occurrences": 1,
+    "context": "Boosted Flow Image"
+  },
+  {
+    "file": "image_32.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 9400,
+    "sha256": "5fb9764433ccc3f0af2a5e61fdf6106f68e8d554fd36de9cbdacc37cd9fd7ab5",
+    "occurrences": 1,
+    "context": "img alt: 60 Days Money Back Guarantee"
+  },
+  {
+    "file": "image_33.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 17348,
+    "sha256": "f233b83ede4d149297b63ef0647cb334691dd9d5ac2e84b0138b750f7f1a08bc",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_34.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 13712,
+    "sha256": "ef0063c4132c6b00525d33b7a9091bdefeef5404ba4e02947e7c0707eb327083",
+    "occurrences": 1,
+    "context": "Medicinal Seed Kit Image"
+  },
+  {
+    "file": "image_35.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 11218,
+    "sha256": "3ba235081ffdf102ff13b2b96a4ac57c1aea4bd21c8accd9691968a358994767",
+    "occurrences": 1,
+    "context": "img alt: 100 Percent Money Back Guaranteed"
+  },
+  {
+    "file": "image_36.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 16494,
+    "sha256": "e1a351519ff81fd889ef13bd7727060dd5dda952531ca7da1ede1774551a8ca2",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_37.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 19116,
+    "sha256": "b0cded225021f899be96b4fe5d43e46f2c8846d82554c531e77e9d4d4f2a1ccc",
+    "occurrences": 1,
+    "context": "Goliath XL10 Image"
+  },
+  {
+    "file": "image_38.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 18166,
+    "sha256": "74ad2688e204882f8a56acd5e3af9411a4b29c5254183047391bebf530162a2c",
+    "occurrences": 1,
+    "context": "img alt: 100% Money Back Guaranteed"
+  },
+  {
+    "file": "image_39.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 6180,
+    "sha256": "1805ce11bfd240ddc10a15c694c00657eb96fdcf05ae33a16239d01b0593bab9",
+    "occurrences": 2,
+    "context": "img alt: Satisfaction 100% Guarantee"
+  },
+  {
+    "file": "image_40.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 6268,
+    "sha256": "82924f9e25e76d00c65a9b4916cab7062dd231f13f9ddc3239cbc8ae3dc86417",
+    "occurrences": 2,
+    "context": "img alt: Made in USA"
+  },
+  {
+    "file": "image_41.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 5822,
+    "sha256": "3b76d49f954e027b8358cf11895839fb09c2434ab8f479d33d30d8c5ac25dcf9",
+    "occurrences": 2,
+    "context": "img alt: GMP Standards"
+  },
+  {
+    "file": "image_42.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 6904,
+    "sha256": "76f85c7dabe27c3fea76a09acaf86b34b17b1421cc16fbb683e5dc40350d9fde",
+    "occurrences": 1,
+    "context": "img alt: Food and Drug Administration FDA Approved artwork "
+  },
+  {
+    "file": "image_43.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 13330,
+    "sha256": "fac7f646f979573ce15efcabb5452a0df1658be2c34c34858282338d07042d74",
+    "occurrences": 1,
+    "context": "img alt: Doctor Recommended"
+  },
+  {
+    "file": "image_44.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 68612,
+    "sha256": "f58b3f98fdf54556bac24538d8238927d03beaf3356d41db6788b42422ccbd93",
+    "occurrences": 1,
+    "context": "Medicinal Seed Kit Image"
+  },
+  {
+    "file": "image_45.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 9164,
+    "sha256": "5b9d99f6dfa2bf158ee8b36f180a4710f22e26e67d56deee8656256c2e3fd262",
+    "occurrences": 1,
+    "context": "img alt: One Year Money Back Guarantee"
+  },
+  {
+    "file": "image_46.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 11102,
+    "sha256": "549740cb280d6c39da009e530d5e1984615d7d275b8be2f1b9e5fb5e9c5bb540",
+    "occurrences": 1,
+    "context": "(unknown context)"
+  },
+  {
+    "file": "image_47.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 14986,
+    "sha256": "b1ef064318fc5f4f2837743db7aac8098fbfbae15a58315c2f0d34db6096d469",
+    "occurrences": 1,
+    "context": "img alt: Supplied FDA Approved artwork"
+  },
+  {
+    "file": "image_48.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 8676,
+    "sha256": "5592c187445a7d10e9874948b844c118bdc9f97be3bfb489f6ac7129ae425cdf",
+    "occurrences": 1,
+    "context": "img alt: Supplied Lab Tested artwork"
+  },
+  {
+    "file": "image_49.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 21011,
+    "sha256": "cbdd4844f3e81f7e8578e1267cef0016b28e28a704c8e85e30c792d668050d4a",
+    "occurrences": 1,
+    "context": "S10img1"
+  }
+]
