@@ -21,8 +21,8 @@
     "file": "font_03.woff2",
     "kind": "font",
     "mime": "font/woff2",
-    "bytes": 26112,
-    "sha256": "9b3fb081a25dbbcda64c8d1979b94090289a64e9a3b2bca60d6948589fbfd321",
+    "bytes": 67304,
+    "sha256": "7234ed860a9cc8304541e2a392b49318b329aa2ffba1fa1819714eb8cae9842ae",
     "occurrences": 1,
     "context": "@font-face"
   },
@@ -76,7 +76,7 @@
     "kind": "font",
     "mime": "font/woff2",
     "bytes": 85068,
-    "sha256": "34b9c50400e620acccb0c268a7353fc41356e4c73041ea22b392a834220b3356",
+    "sha256": "34b9c504cab7a73e37b7507c08a994ef92bb1c6999b1efd630cdcd46ee4f8260",
     "occurrences": 1,
     "context": "@font-face"
   },
@@ -93,8 +93,8 @@
     "file": "font_11.woff2",
     "kind": "font",
     "mime": "font/woff2",
-    "bytes": 19280,
-    "sha256": "76d8b9d316e6d191fb4e7ca384955b93d6a9926c482cc2b8d4f0cb028ef7db23",
+    "bytes": 10252,
+    "sha256": "5c66f9e07e90c6d4ac49fa86e4c73041ea22b392a834220b3356070a2f7123456",
     "occurrences": 1,
     "context": "@font-face"
   },
@@ -129,8 +129,8 @@
     "file": "font_15.woff2",
     "kind": "font",
     "mime": "font/woff2",
-    "bytes": 15664,
-    "sha256": "63f3575971ea944f76ea8f9f6e520025fa825c71dbff100d89269d356ebdb0a2",
+    "bytes": 16790,
+    "sha256": "06323a6fec516b42c5dc8ab1487850e04803d1f04a36e5eb0604f46ccd7bae6a",
     "occurrences": 1,
     "context": "@font-face"
   },
@@ -193,7 +193,7 @@
     "kind": "image",
     "mime": "image/webp",
     "bytes": 25476,
-    "sha256": "9487bddc1a4c97b37ff9ac85521b44ec4ea19b48f95c25c6f376a928cd9f36f1c42f0a5fcc112",
+    "sha256": "9487bddc1a4c04c4b0df68b4bc0947e053276bc2630db01e059c5889901aae29",
     "occurrences": 0,
     "context": "repo"
   },
@@ -202,7 +202,7 @@
     "kind": "image",
     "mime": "image/webp",
     "bytes": 21628,
-    "sha256": "fc88fee93cb6b911707010f3c5f4b5952f440da955848bb2fb8bcbc89ca7bebb28c2fb8b2345",
+    "sha256": "fc88fee991bce7ade20eaeb8ed2f0d167222911d303cecacee4142f6b1b6fb09",
     "occurrences": 1,
     "context": "img"
   },
@@ -219,8 +219,8 @@
     "file": "image_04.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 4252,
-    "sha256": "c85d77497d515a4540d9954d241773d528efd05ca3a886ef2ecb313ef41da7d0",
+    "bytes": 23986,
+    "sha256": "55d554fb36d331f23975521b44ec4ea19b48f95c25c6f376a928cd9f36f1c42f",
     "occurrences": 1,
     "context": "preload+img"
   },
@@ -283,7 +283,7 @@
     "kind": "image",
     "mime": "image/webp",
     "bytes": 15244,
-    "sha256": "8f0b1c03e305e718b53293cd3a4dd823aef54256eb41aaeef625a2df4149eeb7b50123456",
+    "sha256": "8f0b1c03fec99f6c4c3daed5e97b06f6c0991a25563561357d49e01b307c3b4a",
     "occurrences": 1,
     "context": "img"
   },
@@ -318,8 +318,8 @@
     "file": "image_15.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 22400,
-    "sha256": "c71a3a496b8e2a392b49318b329aa2ffba1fa1819714eb8cae9842aef28641113b28b1234",
+    "bytes": 16790,
+    "sha256": "06323a6fec516b42c5dc8ab1487850e04803d1f04a36e5eb0604f46ccd7bae6a",
     "occurrences": 1,
     "context": "img"
   },
@@ -453,8 +453,8 @@
     "file": "image_30.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 24100,
-    "sha256": "c49cb372132eb0494cfd54be49f48512f6d2f34aa387eb7117d91cb61d9a642e1",
+    "bytes": 19558,
+    "sha256": "f68d3a5bcb44cb8d77b4e67519d94b1ef2eaf60782da11a1784de18da5af0b06",
     "occurrences": 1,
     "context": "img"
   },
@@ -471,8 +471,8 @@
     "file": "image_32.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 17820,
-    "sha256": "e2a392b49318b329aa2ffba1fa1819714eb8cae9842aef28641113b28b49f6412a",
+    "bytes": 9400,
+    "sha256": "5fb9764433ccc3f0af2a5e61fdf6106f68e8d554fd36de9cbdacc37cd9fd7ab5",
     "occurrences": 1,
     "context": "img"
   },
@@ -481,7 +481,7 @@
     "kind": "image",
     "mime": "image/webp",
     "bytes": 22910,
-    "sha256": "19b48f95c25c6f376a928cd9f36f1c42f0a5fcc114b37ff9ac85521b44ec6415a9",
+    "sha256": "f233b83ede4d149297b63ef0647cb334691dd9d5ac2e84b0138b750f7f1a08bc",
     "occurrences": 1,
     "context": "img"
   },
@@ -534,7 +534,7 @@
     "file": "image_39.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 22910,
+    "bytes": 6180,
     "sha256": "256860dff5521b2025eb270a2f1fb3426742512f6d2f34aa387eb7117d91cb61",
     "occurrences": 1,
     "context": "img"
@@ -580,7 +580,7 @@
     "kind": "image",
     "mime": "image/webp",
     "bytes": 68612,
-    "sha256": "f58b3f980bc8140d064f45c8a347ed601cb79b2504cc51908c46c95d44b62f641a",
+    "sha256": "f58b3f98fdf54556bac24538d8238927d03beaf3356d41db6788b42422ccbd93",
     "occurrences": 1,
     "context": "img"
   },
@@ -589,7 +589,7 @@
     "kind": "image",
     "mime": "image/webp",
     "bytes": 9164,
-    "sha256": "5b9d99f64ce8a1d069eacbda7d77e9858866d5bf825d0b4d8fc99eb414045428912",
+    "sha256": "5b9d99f6dfa2bf158ee8b36f180a4710f22e26e67d56deee8656256c2e3fd262",
     "occurrences": 1,
     "context": "img"
   },
