@@ -30,7 +30,7 @@
     "file": "font_04.woff2",
     "kind": "font",
     "mime": "font/woff2",
-    "bytes": 20904,
+    "bytes": 30448,
     "sha256": "d80b61aa4bfd5162a78ec86ec79ef1ff9c279a0b943d0476495b50de005d52cf",
     "occurrences": 1,
     "context": "@font-face"
@@ -57,7 +57,7 @@
     "file": "font_07.woff2",
     "kind": "font",
     "mime": "font/woff2",
-    "bytes": 25520,
+    "bytes": 11232,
     "sha256": "25f5cb37719f9ca1771141df9ecda67b269be4ffc18b76c66cf17f03d6d06d4e",
     "occurrences": 1,
     "context": "@font-face"
@@ -94,7 +94,7 @@
     "kind": "font",
     "mime": "font/woff2",
     "bytes": 10252,
-    "sha256": "5c66f9e07e90c6d4ac49fa86e4c73041ea22b392a834220b3356070a2f7123456",
+    "sha256": "5c66f9e07e90c6d4ac49fa86e4c73041ea22b392a834220b3356070a2f7",
     "occurrences": 1,
     "context": "@font-face"
   },
@@ -228,7 +228,7 @@
     "file": "image_05.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 22210,
+    "bytes": 8758,
     "sha256": "0a9e7019a86b3e648c6ff0f81d13009581fa79b8b7e28dfc5ee53380b2a8d11c",
     "occurrences": 1,
     "context": "img"
@@ -552,7 +552,7 @@
     "file": "image_41.webp",
     "kind": "image",
     "mime": "image/webp",
-    "bytes": 25190,
+    "bytes": 5822,
     "sha256": "fa08a9e88bf89f1f0088029b3c434220b33c02cbff0d720b6068d30e3867664e",
     "occurrences": 1,
     "context": "img"
